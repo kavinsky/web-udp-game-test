@@ -8,17 +8,25 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@web-udp/client": "^4.2.1",
+    "@web-udp/server": "^4.2.1",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "@ky-is/vue-cli-plugin-tailwind": "~2.0.0",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.0.0"
+    "eslint-plugin-vue": "^7.0.0",
+    "node-sass": "^4.14.1",
+    "postcss-preset-env": "^6.6.0",
+    "sass-loader": "^8.0.2",
+    "tailwindcss": "^1.0.1"
   },
   "eslintConfig": {
     "root": true,
