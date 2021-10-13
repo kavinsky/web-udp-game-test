@@ -1,5 +1,7 @@
 # web-udp-test
 
+This is a tiny project i did for demostrating to my workmates the WebRTC and UDP API in a browser.
+
 ## Project setup
 ```
 npm install
